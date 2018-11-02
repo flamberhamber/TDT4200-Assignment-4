@@ -1,0 +1,3 @@
+/home/carl/Documents/Skole/Parallelle/oving4/TDT4200-Assignment-4/build/CMakeFiles/rebuild_cache.dir
+/home/carl/Documents/Skole/Parallelle/oving4/TDT4200-Assignment-4/build/CMakeFiles/gpurender.dir
+/home/carl/Documents/Skole/Parallelle/oving4/TDT4200-Assignment-4/build/CMakeFiles/edit_cache.dir
